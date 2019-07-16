@@ -24,7 +24,7 @@ import matplotlib.pyplot as plt
 Monthly-Volatility-Rankings was originally written by Matthew Aronowitz.  I intend on improving this software to further enhance 
 the automation of the transfomation, visualizations and analysis.  
 
-## Monthly-Volatility-Rankings is Copyright © 20019 Matthew Aronowitz. 
+## Monthly-Volatility-Rankings is Copyright © 2019 by Matthew Aronowitz. 
 It is free software, and may be redistributed under the terms specified in the:
 [LICENSE](https://choosealicense.com/licenses/mit/#) file.
 
