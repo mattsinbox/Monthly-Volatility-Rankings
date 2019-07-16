@@ -2,7 +2,7 @@
 
 ## Introduction:
 Monthly Volatility Ranking is a Jupyter notebook written in python that ultimately tranforms and analyzes daily market data
-with respect to it's _monthly _volatility.  
+with respect to it's __monthly __volatility__.  The code references the file SP which is a csv file containing the date, open, high, low, close, adjusted close and volume.  The csv file was downloaded from Yahoo Finaance but any csv file with the date and close could be substituted.  
 
 ## Motivation:
 Many market forecasters and pundits will reference certain months or seasons with respect to their volatilities without any data to 
@@ -20,11 +20,11 @@ from IPython.display import display # Allows the use of display() for DataFrames
 Pretty display for notebooks: %matplotlib inline
 import matplotlib.pyplot as plt
 
-## Contributing
+## Contributing:
 Monthly-Volatility-Rankings was originally written by Matthew Aronowitz.  I intend on improving this software to further enhance 
 the automation of the transfomation, visualizations and analysis.  
 
-## Monthly-Volatility-Rankings is Copyright © 20019 Joe Ferris and thoughtbot. 
+## Monthly-Volatility-Rankings is Copyright © 20019 Matthew Aronowitz. 
 It is free software, and may be redistributed under the terms specified in the:
 [LICENSE](https://choosealicense.com/licenses/mit/#) file.
 
