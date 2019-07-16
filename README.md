@@ -2,7 +2,7 @@
 
 ## Introduction:
 Monthly Volatility Ranking is a Jupyter notebook written in python that ultimately tranforms and analyzes daily market data
-with respect to it's __monthly __volatility__.  The code references the file SP which is a csv file containing the date, open, high, low, close, adjusted close and volume.  The csv file was downloaded from Yahoo Finaance but any csv file with the date and close could be substituted.  
+with respect to it's monthly volatility.  It compares the average daily movement, ranking and analyzing them by month to find statistically meaningful relationships.  The code references the file SP which is a csv file containing the date, open, high, low, close, adjusted close and volume for the S&P 500 from January 1989 to December 2018.  The csv file was downloaded from Yahoo Finaance but any csv file with the date and closing price could be substituted.  
 
 ## Motivation:
 Many market forecasters and pundits will reference certain months or seasons with respect to their volatilities without any data to 
